@@ -339,10 +339,10 @@ i.sites {
 }
 label.span1 {
 	width: 4px;
-	height: 100px;
+	height: 500px;
 	background: #fff;
 	position: absolute;
-	top: 240px;
+	top: 440px;
 	left: 70px;
 }
 label.span2 {
