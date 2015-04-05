@@ -342,7 +342,7 @@ label.span1 {
 	height: 100px;
 	background: #fff;
 	position: absolute;
-	top: 141px;
+	top: 240px;
 	left: 70px;
 }
 label.span2 {
@@ -616,8 +616,8 @@ label.span4 {
 	}
 	label.span1 {
 		width: 4px;
-		height: 115px;
-		top: 135px;
+		height: 300px;
+		top: 200px;
 		left: 58px;
 	}
 	label.span2 {
